@@ -1,17 +1,10 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  email: MyString
-  first_name: MyString
-  last_name: MyString
-  zipcode: MyString
-  street: MyString
-  country: MyString
-
-two:
-  email: MyString
-  first_name: MyString
-  last_name: MyString
-  zipcode: MyString
-  street: MyString
-  country: MyString
+  email: user@domain.com
+  first_name: John
+  last_name: Doe
+  zipcode: 12345
+  street: A Nice Street
+  country: Colombia
+  token: abc123
