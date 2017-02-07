@@ -19,6 +19,7 @@ ActiveRecord::Schema.define(version: 20170207035352) do
     t.string   "zipcode"
     t.string   "street"
     t.string   "country"
+    t.string   "token"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
